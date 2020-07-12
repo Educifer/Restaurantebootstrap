@@ -1,0 +1,43 @@
+
+/*@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 768px) {
+
+}
+*/
+
+body{
+    background-color: rgb(217, 217, 255);
+}
+
+h1{
+    color: rgb(47, 14, 107);;
+}
+
+.responsivo{
+    width: 100%;
+    background-color: #e7bbbb;
+    font-size: 24px;
+    float: left;
+    margin: 1%;
+}
+
+.titulo{
+    color: rgb(47, 14, 107);
+    border: 1px solid rgb(29, 8, 68);
+    margin-right: -1px;
+    margin-top: -1px;
+    background-color: #9493f7;
+}
+
+.bloco{
+    margin: 10px;
+}
+
+p{
+    clear: right;
+    margin: 5px;
+}
